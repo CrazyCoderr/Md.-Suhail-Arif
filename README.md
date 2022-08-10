@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Md. Suhail Arif</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anushka23g&label=Profile%20views&color=0e75b6&style=flat" alt="anushka23g" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazycoderr&label=Profile%20views&color=0e75b6&style=flat" alt="crazycoderr" /> </p>
 
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka23g&layout=compact&langs_count=8" alt="anushka23g" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=crazycoderr&show_icons=true&locale=en" alt="crazycoderr" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderr&layout=compact&langs_count=8" alt="crazycoderr" />
 </p>
 <br>
 <br>
 
 
-🔭  I’m currently working on [Tech interviews Preparation Material](https://github.com/anushka23g/Complete-Placement-Preparation)
+🔭  I’m currently working on [Tech interviews Preparation Material](https://github.com/crazycoderr/Complete-Placement-Preparation)
 
-👯  I’m looking to collaborate on [Learning Made Easy](https://github.com/anushka23g/Learning-Made-Easy)
+👯  I’m looking to collaborate on [Learning Made Easy](https://github.com/crazycoderr/Learning-Made-Easy)
 
-💻  All of my projects are available at [https://github.com/anushka23g](https://github.com/anushka23g)
+💻  All of my projects are available at [https://github.com/crazycoderr](https://github.com/crazycoderr)
 
-🐣  My latest repository, [Tech-interviews-Prep](https://github.com/anushka23g/Complete-Placement-Preparation), ***Ranked under the TRENDING repositories on Github Worldwide at the 11th position.*** ❤️
+🐣  My latest repository, [Tech-interviews-Prep](https://github.com/crazycoderr/Complete-Placement-Preparation), ***Ranked under the TRENDING repositories on Github Worldwide at the 11th position.*** ❤️
 <br>
 
 
@@ -29,7 +29,7 @@
 <h3 align="left">⭐ Connect with me:</h3>
 <p align="left"> 
 <a href="https://linkedin.com/in/anushka-gupta-679496196" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="anushka-gupta-679496196" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/anushka23g" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="anushka23g" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/crazycoderr" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="crazycoderr" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">⭐ Languages and Tools:</h3>
@@ -37,6 +37,6 @@
 
 <br>
  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka23g&" alt="anushka23g" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazycoderr&" alt="crazycoderr" /></p>
  
  
