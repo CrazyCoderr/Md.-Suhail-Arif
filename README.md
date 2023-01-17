@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Md. Suhail Arif</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazycoderr&label=Profile%20views&color=0e75b6&style=flat" alt="crazycoderr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdsuhailarif&label=Profile%20views&color=0e75b6&style=flat" alt="mdsuhailarif" /> </p>
 
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=crazycoderr&show_icons=true&locale=en" alt="crazycoderr" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycoderr&layout=compact&langs_count=8" alt="crazycoderr" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsuhailarif&show_icons=true&locale=en" alt="mdsuhailarif" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsuhailarif&layout=compact&langs_count=8" alt="mdsuhailarif" />
 </p>
 <br>
 <br
 
 
 
-💻  All of my projects are available at [https://github.com/crazycoderr](https://github.com/crazycoderr)
+💻  All of my projects are available at [https://github.com/mdsuhailarif](https://github.com/mdsuhailarif)
 
 <br>
 
@@ -32,6 +32,6 @@
 
 <br>
  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazycoderr&" alt="crazycoderr" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsuhailarif &" alt="mdsuhailarif" /></p>
  
  
